@@ -1,6 +1,6 @@
-@import "/slides-example/slide-cover.css";
-@import "/slides-example/slide-link.css";
-@import "/slides-example/slide-picture.css";
+@import "slides-example/slide-cover.css";
+@import "slides-example/slide-link.css";
+@import "slides-example/slide-picture.css";
   
 .shower {
     --slide-ratio: calc(16 / 9);
