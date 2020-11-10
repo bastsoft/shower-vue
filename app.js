@@ -1,6 +1,6 @@
 const Vue = window.Vue;
 import slide from "./slide.js";
-import presentation from "./slides-example/presentation.md.js";
+import presentation from "./slides-example/index.md.js";
 
 const RootComponent = {
   components: {
